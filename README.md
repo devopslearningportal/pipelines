@@ -1,2 +1,2 @@
 # pipelines
-Jenkins pipelines for learning at devopslearningportal.com
+Jenkins pipelines for learning at https://devopslearningportal.com
